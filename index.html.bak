@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html>
+
+
+
+<head>
+<title> Alliance Protective Group</title>
+<link rel="stylesheet" type="text/css" href="index.css">
+
+<!-- Start WOWSlider.com HEAD section -->
+<link rel="stylesheet" type="text/css" href="engine2/style.css" />
+<script type="text/javascript" src="engine2/jquery.js"></script>
+<!-- End WOWSlider.com HEAD section -->
+
+</head>
+<body background="silver.jpg">
+	<div align="center">
+		<img src="apglogo.png" width="500" height="150">
+	</div>
+
+<div id='cssmenu'>
+<ul>
+   <li class='active'><a href='index.html'>Home</a></li>
+   <li><a href='#'>Services</a></li>
+   <li><a href='#'>About</a></li>
+   <li><a href='#'>Our Team</a></li>
+   <li><a href='#'>Contact</a></li>
+</ul>
+	<!-- Start WOWSlider.com BODY section --> <!-- add to the <body> of your page -->
+	<div id="wowslider-container2">
+	<div class="ws_images"><ul>
+		<li><img src="data2/images/city.jpg" alt="city" title="city" id="wows2_0"/></li>
+		<li><img src="data2/images/columbia.jpg" alt="columbia" title="columbia" id="wows2_1"/></li>
+		<li><a href="http://wowslider.com/vi"><img src="data2/images/concert.jpg" alt="cssslider" title="concert" id="wows2_2"/></a></li>
+		<li><img src="data2/images/mall.jpg" alt="mall" title="mall" id="wows2_3"/></li>
+	</ul></div>
+	<div class="ws_bullets"><div>
+		<a href="#" title="city"><span><img src="data2/tooltips/city.jpg" alt="city"/>1</span></a>
+		<a href="#" title="columbia"><span><img src="data2/tooltips/columbia.jpg" alt="columbia"/>2</span></a>
+		<a href="#" title="concert"><span><img src="data2/tooltips/concert.jpg" alt="concert"/>3</span></a>
+		<a href="#" title="mall"><span><img src="data2/tooltips/mall.jpg" alt="mall"/>4</span></a>
+	</div></div><div class="ws_script" style="position:absolute;left:-99%"><a href="http://wowslider.com/vi">css slider</a> by WOWSlider.com v8.5m</div>
+	<div class="ws_shadow"></div>
+	</div>	
+	<script type="text/javascript" src="engine2/wowslider.js"></script>
+	<script type="text/javascript" src="engine2/script.js"></script>
+	<!-- End WOWSlider.com BODY section -->
+	<!-- Start WOWSlider.com BODY section --> <!-- add to the <body> of your page -->
+	
+
+
+
+	<!-- Start WOWSlider.com BODY section --> <!-- add to the <body> of your page -->
+	</body>
+
+</html>
